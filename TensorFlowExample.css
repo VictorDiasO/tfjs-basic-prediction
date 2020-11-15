@@ -1,0 +1,12 @@
+.tensorflow-project .train-controls .row-labels{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 500px;
+    margin-right: 510px;
+}
+
+.tensorflow-project button {
+    justify-content: space-between;
+    margin-right: 5px;
+    margin-left: 15px;
+}
